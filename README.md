@@ -14,15 +14,13 @@
 | 18 months | Holberton (coding bootcamp): Certification in Full Stack Web Development (Sept. 2022) |
 | 4 years   | University of Connecticut, B.S. in Chemistry (May, 2018)                              |
 
-### Notable
-
 - Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from UConn Chem. Department)
 - GPA: 3.3, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
 
 ## My Tech Stack
 
-|            |                                                                                        |     |
-| ---------- | -------------------------------------------------------------------------------------- | --- |
+|            |                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------- |
 | Design     | Figma                                                                                  |
 | Frontend   | React, Redux, Gatsby, Apollo, jQuery, TailwindCSS, Bootstrap, Vite, Yarn, NPM, Webpack |
 | Backend    | Django + Django REST APIs, Spring Boot, NodeJS, Express, GraphQL                       |
@@ -43,8 +41,6 @@
 | Tech    | C#, SQL Server, JavaScript/TypeScript, Azure, React, Redux, HTML/CSS, Express                                                                                                                                                            |
 | Summary | Built Azure Functions and intranet site pages to solve problems for various clients and across varying projects and industries, ranging from intranet site building to querying Microsoft APIs and presenting the data to administrators |
 
-#### Notable
-
 - Directly communicated with clients about technical wants and needs
 - Built the base of the frontend and worked on their proprietary ticketing system from scratch (React/Redux/CSS)
 - Created Mentions feature for the frontend (typing “@” shows people to tag in text area)
@@ -59,8 +55,6 @@
 | Space   | Madison, CT                                                             |
 | Tech    | PL/SQL Oracle, Jira, Python                                             |
 | Summary | Wrote PL/SQL scripts to implement custom app configurations for clients |
-
-#### Notable
 
 - Produced the company’s software installation with no prior experience nor help
 - Unique Contributions: Wrote and distributed python scripts to automate work
