@@ -1,16 +1,23 @@
 # Thomas James L. Francis
 
-Norwalk, CT || (203)-278-1760 || https://thomasjamesfrancis.com/portfolio || Email: toj320@gmail.com
+|             |                |                  |                                          |
+| ----------- | -------------- | ---------------- | ---------------------------------------- |
+| Norwalk, CT | (203)-278-1760 | toj320@gmail.com | https://thomasjamesfrancis.com/portfolio |
 
 ## Experience and Education
 
-- 1 year as a Full Stack Developer
-- 1 year as an Application Support Analyst (PL/SQL, Jira, Python)
-- 4 years of general programming experience
-- Holberton (18-month coding bootcamp): Certification in Full Stack Web Development (Sept. 2022)
-- University of Connecticut, B.S. in Chemistry (May, 2018)
-  - Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from Chem. Department)
-  - GPA: 3.3, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
+|           |                                                                                       |
+| --------- | ------------------------------------------------------------------------------------- |
+| 1 year    | Full Stack Developer                                                                  |
+| 1 year    | Application Support Analyst                                                           |
+| 4 years   | general programming experience                                                        |
+| 18 months | Holberton (coding bootcamp): Certification in Full Stack Web Development (Sept. 2022) |
+| 4 years   | University of Connecticut, B.S. in Chemistry (May, 2018)                              |
+
+### Notable
+
+- Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from UConn Chem. Department)
+- GPA: 3.3, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
 
 ## My Tech Stack
 
@@ -36,7 +43,7 @@ Norwalk, CT || (203)-278-1760 || https://thomasjamesfrancis.com/portfolio || Ema
 | Tech    | C#, SQL Server, JavaScript/TypeScript, Azure, React, Redux, HTML/CSS, Express                                                                                                                                                            |
 | Summary | Built Azure Functions and intranet site pages to solve problems for various clients and across varying projects and industries, ranging from intranet site building to querying Microsoft APIs and presenting the data to administrators |
 
-#### Notables
+#### Notable
 
 - Directly communicated with clients about technical wants and needs
 - Built the base of the frontend and worked on their proprietary ticketing system from scratch (React/Redux/CSS)
@@ -53,19 +60,15 @@ Norwalk, CT || (203)-278-1760 || https://thomasjamesfrancis.com/portfolio || Ema
 | Tech    | PL/SQL Oracle, Jira, Python                                             |
 | Summary | Wrote PL/SQL scripts to implement custom app configurations for clients |
 
-#### Notables
+#### Notable
 
 - Produced the company’s software installation with no prior experience nor help
 - Unique Contributions: Wrote and distributed python scripts to automate work
 - Automated bug reports and developed new Bug test processes for their new Web-based app
 
-## Other Notables
+## Unique Experience
 
 |             |                                                          |
 | ----------- | -------------------------------------------------------- |
-| Languages   | Intermediate Spanish, Latin, basic Japanese, Visayan     |
 | Summer 2018 | Bicycled from New Haven, CT to Portland, ME (~300 miles) |
-
-## References
-
-- Jason Smith: Business Relations Manager for MHK, CT, jsmith@mhk.com, Cell Number: (360) 223-1928
+| Languages   | Intermediate Spanish, Latin, basic Japanese, Visayan     |
