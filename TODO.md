@@ -20,3 +20,6 @@ pandoc README.md -f markdown -t latex -s -o resume.tex
 
 Next time
 - [ ] work on script to replace certain things automatically
+- [ ] replace linkedIn resume
+- [ ] replace portfolio resume
+- [ ] write a script to do this for you
