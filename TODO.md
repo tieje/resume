@@ -2,10 +2,6 @@
 
 6/26/2023
 
-```bash
-pandoc README.md -f markdown -t latex -s -o resume.tex
-```
-
 ```tex
 \documentclass[letterpaper]{article}
 
@@ -17,9 +13,15 @@ pandoc README.md -f markdown -t latex -s -o resume.tex
 - [x] increase width of markdown resume to 8 &frac12;"x11" paper width
 - [x] convert markdown to latex
 - [x] convert latex to pdf
-
-Next time
-- [ ] work on script to replace certain things automatically
+- [x] work on script to replace certain things automatically
 - [ ] replace linkedIn resume
 - [ ] replace portfolio resume
 - [ ] write a script to do this for you
+
+## Instructions
+
+1. Run commands
+```bash
+pandoc README.md -f markdown -t latex -s -o resume.tex && python3 style_resume.py 
+```
+2. Copy contents of `resume.tex` to `overleaf.com`, convert to PDF, and save here.
