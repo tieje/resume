@@ -14,9 +14,8 @@
 - [x] convert markdown to latex
 - [x] convert latex to pdf
 - [x] work on script to replace certain things automatically
-- [ ] replace linkedIn resume
+- [x] replace linkedIn resume
 - [ ] replace portfolio resume
-- [ ] write a script to do this for you
 
 ## Instructions
 
