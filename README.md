@@ -17,19 +17,7 @@
 - Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from UConn Chem. Department)
 - GPA: 3.3, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
 
-## My Tech Stack
-
-|            |                                                                                        |
-| ---------- | -------------------------------------------------------------------------------------- |
-| Design     | Figma                                                                                  |
-| Frontend   | React, Redux, Gatsby, Apollo, jQuery, TailwindCSS, Bootstrap, Vite, Yarn, NPM, Webpack |
-| Backend    | Django + Django REST APIs, Spring Boot, NodeJS, Express, GraphQL                       |
-| Database   | SQL Server, PostgreSQL, MongoDB, SQLite, Redis                                         |
-| Deployment | AWS, Azure, Docker, Nginx, Apache                                                      |
-| Testing    | Selenium, React Testing Library, Jest, Cargo Test Python Unit Tests                    |
-| Languages  | Python, TypeScript, JavaScript, Rust, PostgreSQL, T-SQL, PL/SQL, C, C#, Bash (Linux)   |
-
-## Past Work Experience
+## Work Experience
 
 ### Synergy Corporate Technologies
 
@@ -59,6 +47,18 @@
 - Produced the company’s software installation with no prior experience nor help
 - Unique Contributions: Wrote and distributed python scripts to automate work
 - Automated bug reports and developed new Bug test processes for their new Web-based app
+
+## My Tech Stack
+
+|            |                                                                                        |
+| ---------- | -------------------------------------------------------------------------------------- |
+| Design     | Figma                                                                                  |
+| Frontend   | React, Redux, Gatsby, Apollo, jQuery, TailwindCSS, Bootstrap, Vite, Yarn, NPM, Webpack |
+| Backend    | Django + Django REST APIs, Spring Boot, NodeJS, Express, GraphQL                       |
+| Database   | SQL Server, PostgreSQL, MongoDB, SQLite, Redis                                         |
+| Deployment | AWS, Azure, Docker, Nginx, Apache                                                      |
+| Testing    | Selenium, React Testing Library, Jest, Cargo Test Python Unit Tests                    |
+| Languages  | Python, TypeScript, JavaScript, Rust, PostgreSQL, T-SQL, PL/SQL, C, C#, Bash (Linux)   |
 
 ## Unique Experience
 
