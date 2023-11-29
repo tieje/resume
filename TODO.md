@@ -21,6 +21,6 @@
 
 1. Run commands
 ```bash
-pandoc README.md -f markdown -t latex -s -o resume.tex && python3 style_resume.py 
+pandoc README.md -f markdown -t latex -s -o resume.tex && python3 style_resume.py
 ```
-2. Copy contents of `resume.tex` to `overleaf.com`, convert to PDF, and save here.
+2. Copy contents of `resume.tex` to [overleaf.com](https://www.overleaf.com), convert to PDF, and save here.

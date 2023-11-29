@@ -24,14 +24,13 @@
 |         |                                                                                                                                                                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Role    | <b>Full Stack Developer</b>                                                                                                                                                                                                              |
-| Time    | Aug 1st, 2022 to Current                                                                                                                                                                                                                 |
+| Time    | Aug 1st, 2022 to Nov 29th, 2023                                                                                                                                                                                                          |
 | Space   | Westport, CT                                                                                                                                                                                                                             |
 | Tech    | C#, SQL Server, JavaScript/TypeScript, Azure, React, Redux, HTML/CSS, Express                                                                                                                                                            |
 | Summary | Built Azure Functions and intranet site pages to solve problems for various clients and across varying projects and industries, ranging from intranet site building to querying Microsoft APIs and presenting the data to administrators |
 
 - Directly communicated with clients about technical wants and needs
 - Built the base of the frontend and worked on their proprietary ticketing system from scratch (React/Redux/CSS)
-- Created Mentions feature for the frontend (typing “@” shows people to tag in text area)
 - Great comprehension of CSS due to working extensively with a proprietary site builder
 
 ### MHK
@@ -60,7 +59,7 @@
 | Testing    | Selenium, React Testing Library, Jest, Cargo Test Python Unit Tests                    |
 | Languages  | Python, TypeScript, JavaScript, Rust, PostgreSQL, T-SQL, PL/SQL, C, C#, Bash (Linux)   |
 
-## Unique Experience
+## Hobbies
 
 |             |                                                          |
 | ----------- | -------------------------------------------------------- |
