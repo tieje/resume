@@ -19,8 +19,16 @@
 
 ## Instructions
 
-1. Run commands
+1. Run commands:
+
+For resume:
 ```bash
-pandoc README.md -f markdown -t latex -s -o resume.tex && python3 style_resume.py
+bash ./re-resume.sh
 ```
-2. Copy contents of `resume.tex` to [overleaf.com](https://www.overleaf.com), convert to PDF, and save here.
+
+For cover letter:
+```bash
+bash ./re-cover-letter.sh
+```
+
+1. Copy contents of `resume.tex` to [overleaf.com](https://www.overleaf.com), convert to PDF, and save here.
