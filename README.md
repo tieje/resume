@@ -14,8 +14,9 @@
 | 18 months | Holberton (coding bootcamp): Certification in Full Stack Web Development (Sept. 2022) |
 | 4 years   | University of Connecticut, B.S. in Chemistry (May, 2018)                              |
 
+- Attended UCONN on Full Honors Scholarship
 - Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from UConn Chem. Department)
-- GPA: 3.3, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
+- GPA: 3.5, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
 
 ## Work Experience
 
@@ -58,10 +59,3 @@
 | Deployment | AWS, Azure, Docker, Nginx, Apache                                                      |
 | Testing    | Selenium, React Testing Library, Jest, Cargo Test Python Unit Tests                    |
 | Languages  | Python, TypeScript, JavaScript, Rust, PostgreSQL, T-SQL, PL/SQL, C, C#, Bash (Linux)   |
-
-## Hobbies
-
-|             |                                                          |
-| ----------- | -------------------------------------------------------- |
-| Summer 2018 | Bicycled from New Haven, CT to Portland, ME (~300 miles) |
-| Languages   | Intermediate Spanish, Latin, basic Japanese, Visayan     |
