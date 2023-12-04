@@ -1,0 +1,3 @@
+- mission of mitigating recidivism, owing to my prior experience from growing up on the dangerous part of town on Whalley Ave in New Haven, CT.
+- company's mission of making work meaningful, owing to my prior experience in slow and buggy platforms I have used at prior employments
+- 

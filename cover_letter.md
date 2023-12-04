@@ -6,17 +6,17 @@
 
 &nbsp;
 
-11/30/2023
+12/2/2023
 
 &nbsp;
 
-Dear _____________,
+Dear HR at Deloitte,
 
 &nbsp;
 
-I am interested in the opening for [position name] at [name of company].
+I am interested in the opening for Full Stack Developer at Deloitte.
 
-I'm drawn to this role because I believe in the company's mission of [company's mission], owing to my prior experience in [prior experience].
+I'm drawn to this role because of the potential career advancement that Deloitte provides.
 
 I am a full stack web developer with five years of programming experience. Alongside a certificate in Full Stack Web Development from Holberton (a rigorous 18-month coding bootcamp), I have a B.S. in Chemistry from the University of Connecticut, where I attended with honors on full scholarship and earned the prestigious Roland Award for an outstanding senior thesis.
 

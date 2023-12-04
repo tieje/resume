@@ -16,7 +16,7 @@
 
 - Attended UCONN on Full Honors Scholarship
 - Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from UConn Chem. Department)
-- GPA: 3.5, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
+- GPA: 3.4, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
 
 ## Work Experience
 
