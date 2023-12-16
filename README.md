@@ -6,13 +6,14 @@
 
 ## Experience and Education
 
-|           |                                                                                       |
-| --------- | ------------------------------------------------------------------------------------- |
-| 1 year    | Full Stack Developer                                                                  |
-| 1 year    | Application Support Analyst                                                           |
-| 4 years   | general programming experience                                                        |
-| 18 months | Holberton (coding bootcamp): Certification in Full Stack Web Development (Sept. 2022) |
-| 4 years   | University of Connecticut, B.S. in Chemistry (May, 2018)                              |
+|           |                                                                                                                      |
+| --------- | -------------------------------------------------------------------------------------------------------------------- |
+| Dec. 2023 | [AWS Certified Developer - Associate](https://www.credly.com/badges/a74d35dd-36ff-4272-9d72-b1cf6a6360f5/public_url) |
+| 1.5 year  | Full Stack Developer                                                                                                 |
+| 1 year    | Application Support Analyst                                                                                          |
+| 4 years   | general programming experience                                                                                       |
+| 18 months | Holberton (coding bootcamp): Certification in Full Stack Web Development (Sept. 2022)                                |
+| 4 years   | University of Connecticut, B.S. in Chemistry (May, 2018)                                                             |
 
 - Attended UCONN on Full Honors Scholarship
 - Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from UConn Chem. Department)

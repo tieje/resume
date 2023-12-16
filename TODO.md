@@ -36,13 +36,17 @@ bash ./re-cover-letter.sh
 - [ ] Once I get the AWS cert, update your portfolio site or create a new one. Use HTMX?
 - [ ] Once the portfolio site is done, if you don't have a project in mind, focus on freelancing and outreach
 
-## My info links
+## My Info Links
 
 ```
-https://github.com/tieje/
+203-278-1760
 https://www.linkedin.com/in/thomas-james-libiano-francis/
 https://thomasjamesfrancis.com/portfolio
+https://github.com/tieje/
 ```
+
+## Info
+- [compensation stats](https://docsend.com/view/akcftnikbupk7arg)
 
 ## Job Boards
 

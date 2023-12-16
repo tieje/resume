@@ -6,17 +6,17 @@
 
 &nbsp;
 
-12/2/2023
+12/6/2023
 
 &nbsp;
 
-Dear HR at Deloitte,
+Dear HR at Summus,
 
 &nbsp;
 
-I am interested in the opening for Full Stack Developer at Deloitte.
+I am interested in the opening for **Software Engineer, Fullstack** at Summus.
 
-I'm drawn to this role because of the potential career advancement that Deloitte provides.
+Owing to my experience as an Application Support Analyst for MHK's medicare healthcare platform, I believe that the U.S. Healthcare system is in dire need of change and that Summus's physician-focused platform is a step in the right direction.
 
 I am a full stack web developer with five years of programming experience. Alongside a certificate in Full Stack Web Development from Holberton (a rigorous 18-month coding bootcamp), I have a B.S. in Chemistry from the University of Connecticut, where I attended with honors on full scholarship and earned the prestigious Roland Award for an outstanding senior thesis.
 

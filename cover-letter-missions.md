@@ -1,3 +1,6 @@
 - mission of mitigating recidivism, owing to my prior experience from growing up on the dangerous part of town on Whalley Ave in New Haven, CT.
 - company's mission of making work meaningful, owing to my prior experience in slow and buggy platforms I have used at prior employments
-- 
+- Owing to my experience as an Application Support Analyst for MHK's medicare healthcare platform, I believe that the U.S. Healthcare system is in dire need of change and that Summus's physician-focused platform is a step in the right direction.
+- I am drawn to Vendora because I believe in the growth of the grocery tech industry. The grocery industry is ripe for innovation. I even have a few ideas of my own such as being able to subscribe to repeat purchases for a discount.
+- I am interested in VectorShift because I believe in the growth of the AI workflows and platforms. The next revolution in tech is here and I want to be a part of it.
+- Owing to my experience as an Application Support Analyst for MHK's medicare healthcare platform, I believe that the U.S. Healthcare system is in dire need of change and that Summus's physician-focused platform is a step in the right direction.
