@@ -37,7 +37,7 @@ content = content.replace(
 )
 content = content.replace(
     r">{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0720}}",
-    r">{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.0920}}",
+    r">{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1020}}",
 )
 
 # Write the modified content back to the file

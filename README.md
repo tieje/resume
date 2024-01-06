@@ -1,8 +1,8 @@
 # Thomas James L. Francis
 
-|             |                |                  |                                          |
-| ----------- | -------------- | ---------------- | ---------------------------------------- |
-| Norwalk, CT | (203)-278-1760 | toj320@gmail.com | https://thomasjamesfrancis.com/portfolio |
+|             |                |                  |                               |
+| ----------- | -------------- | ---------------- | ----------------------------- |
+| Norwalk, CT | (203)-278-1760 | toj320@gmail.com | [thomasjamesfrancis.com](https://thomasjamesfrancis.com) |
 
 ## Experience and Education
 

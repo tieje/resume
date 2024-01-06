@@ -41,9 +41,12 @@ bash ./re-cover-letter.sh
 ```
 203-278-1760
 https://www.linkedin.com/in/thomas-james-libiano-francis/
-https://thomasjamesfrancis.com/portfolio
+https://thomasjamesfrancis.com/
 https://github.com/tieje/
 ```
+Apply:
+
+https://news.ycombinator.com/item?id=38842977
 
 ## Info
 - [compensation stats](https://docsend.com/view/akcftnikbupk7arg)
