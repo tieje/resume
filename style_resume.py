@@ -29,31 +29,35 @@ content = content.replace(
 content = content.replace(
     r"""
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.0663}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.0843}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.0964}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.3373}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.4157}}@{}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.0550}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.0700}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.0800}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.2800}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.3450}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1700}}@{}}
 \toprule\noalign{}
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
 Norwalk, CT & (203)-278-1760 & toj320@gmail.com &
 \href{https://thomasjamesfrancis.com}{thomasjamesfrancis.com} &
-\href{https://www.linkedin.com/in/thomas-james-libiano-francis/}{LinkedIn} \\
+\href{https://www.linkedin.com/in/thomas-james-libiano-francis/}{LinkedIn}
+& \href{https://github.com/tieje}{Github} \\
 \end{longtable}
 """,
     r"""
 \begin{longtable}[]{@{}
-  >{\centering\arraybackslash}p{0.2\textwidth}
-  >{\centering\arraybackslash}p{0.2\textwidth}
-  >{\centering\arraybackslash}p{0.2\textwidth}
-  >{\centering\arraybackslash}p{0.2\textwidth}
-  >{\centering\arraybackslash}p{0.2\textwidth}@{}}
+  >{\centering\arraybackslash}p{0.15\textwidth}
+  >{\centering\arraybackslash}p{0.15\textwidth}
+  >{\centering\arraybackslash}p{0.20\textwidth}
+  >{\centering\arraybackslash}p{0.20\textwidth}
+  >{\centering\arraybackslash}p{0.15\textwidth}
+  >{\centering\arraybackslash}p{0.15\textwidth}@{}}
 \toprule\noalign{}
 \centering Norwalk, CT & \centering (203)-278-1760 & \centering toj320@gmail.com &
 \centering\href{https://thomasjamesfrancis.com}{thomasjamesfrancis.com} &
-\centering\href{https://www.linkedin.com/in/thomas-james-libiano-francis/}{LinkedIn} \\
+\centering\href{https://www.linkedin.com/in/thomas-james-libiano-francis/}{LinkedIn} &
+\centering\href{https://github.com/tieje}{Github} \\
 \end{longtable}
 """,
 )
