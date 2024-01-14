@@ -1,6 +1,7 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
 %
 \documentclass[letterpaper]{article}
 \usepackage[margin=1in]{geometry} % Set 1 inch margins on all sides
@@ -58,7 +59,11 @@
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
-  hidelinks,
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
   pdfcreator={LaTeX via pandoc}}
 
 \author{}
@@ -73,16 +78,37 @@
 \label{thomas-james-l.-francis}}
 
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1571}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2000}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2286}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.4143}}@{}}
+  >{\centering\arraybackslash}p{0.2\textwidth}
+  >{\centering\arraybackslash}p{0.2\textwidth}
+  >{\centering\arraybackslash}p{0.2\textwidth}
+  >{\centering\arraybackslash}p{0.2\textwidth}
+  >{\centering\arraybackslash}p{0.2\textwidth}@{}}
+\toprule\noalign{}
+\centering Norwalk, CT & \centering (203)-278-1760 & \centering toj320@gmail.com &
+\centering\href{https://thomasjamesfrancis.com}{thomasjamesfrancis.com} &
+\centering\href{https://www.linkedin.com/in/thomas-james-libiano-francis/}{LinkedIn} \\
+\end{longtable}
+
+\hypertarget{my-tech-stack}{%
+\subsection{My Tech Stack}\label{my-tech-stack}}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1136}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8864}}@{}}
 \toprule\noalign{}
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-Norwalk, CT & (203)-278-1760 & toj320@gmail.com &
-\href{https://thomasjamesfrancis.com}{thomasjamesfrancis.com} \\
+Languages & Python, C\#, Java, TypeScript, JavaScript, SQL, HTML, CSS,
+SASS, C, Linux, Rust \\
+Design & Figma, Canva \\
+Frontend & React, Redux, ASP.NET, jQuery, TailwindCSS, Bootstrap, NPM,
+HTMX \\
+Backend & Django, Spring, .NET, NodeJS, Express, GraphQL, Axum \\
+Database & SQL Server, PostgreSQL, MongoDB, SQLite, Redis, DynamoDB, AWS
+RDS \\
+Deployment & AWS, Azure, Docker, Nginx, Apache \\
+Testing & Selenium, React Testing Library, Jest \\
 \end{longtable}
 
 \hypertarget{experience-and-education}{%
@@ -105,18 +131,6 @@ Certified Developer - Associate} \\
 Development (Sept.~2022) \\
 4 years & University of Connecticut, B.S. in Chemistry (May, 2018) \\
 \end{longtable}
-
-\begin{itemize}
-\tightlist
-\item
-  Attended UCONN on Full Honors Scholarship
-\item
-  Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from
-  UConn Chem. Department)
-\item
-  GPA: 3.4, UConn Honors Program, UConn STEM Scholar, New Haven Promise
-  Scholar
-\end{itemize}
 
 \hypertarget{work-experience}{%
 \subsection{Work Experience}\label{work-experience}}
@@ -186,27 +200,34 @@ for clients \\
   new Web-based app
 \end{itemize}
 
-\hypertarget{my-tech-stack}{%
-\subsection{My Tech Stack}\label{my-tech-stack}}
+\hypertarget{academic-achievements}{%
+\subsection{Academic Achievements}\label{academic-achievements}}
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1042}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8958}}@{}}
-\toprule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-Design & Figma \\
-Frontend & React, Redux, Gatsby, Apollo, jQuery, TailwindCSS, Bootstrap,
-Vite, Yarn, NPM, Webpack \\
-Backend & Django + Django REST APIs, Spring Boot, NodeJS, Express,
-GraphQL \\
-Database & SQL Server, PostgreSQL, MongoDB, SQLite, Redis \\
-Deployment & AWS, Azure, Docker, Nginx, Apache \\
-Testing & Selenium, React Testing Library, Jest, Cargo Test Python Unit
-Tests \\
-Languages & Python, TypeScript, JavaScript, Rust, PostgreSQL, T-SQL,
-PL/SQL, C, C\#, Bash (Linux) \\
-\end{longtable}
+\begin{itemize}
+\tightlist
+\item
+  Attended UCONN on Full Honors Scholarship
+\item
+  Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from
+  UConn Chem. Department)
+\item
+  GPA: 3.4, UConn Honors Program, UConn STEM Scholar, New Haven Promise
+  Scholar
+\end{itemize}
+
+\hypertarget{references}{%
+\subsection{References}\label{references}}
+
+\begin{itemize}
+\tightlist
+\item
+  Ricardo Aliwalas \textbar{} IT Manager at Yale University
+
+  \begin{itemize}
+  \tightlist
+  \item
+    +1 (203) 859-0515 \textbar{} ricardo.aliwalas@yale.edu
+  \end{itemize}
+\end{itemize}
 
 \end{document}

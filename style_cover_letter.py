@@ -1,4 +1,5 @@
 import os
+import pyperclip
 
 # Specify the file path
 file_path = "cover_letter.tex"
@@ -39,5 +40,7 @@ content = content.replace(
 # Write the modified content back to the file
 with open(file_path, "w") as file:
     file.write(content)
+
+pyperclip.copy(content)
 
 print("Replacements completed successfully!")

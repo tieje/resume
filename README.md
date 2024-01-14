@@ -1,8 +1,26 @@
+<style>
+    a {
+        color: rgb(147 197 253);
+    }
+</style>
+
 # Thomas James L. Francis
 
-|             |                |                  |                               |
-| ----------- | -------------- | ---------------- | ----------------------------- |
-| Norwalk, CT | (203)-278-1760 | toj320@gmail.com | [thomasjamesfrancis.com](https://thomasjamesfrancis.com) |
+|             |                |                  |                                                          |                                                                       |
+| ----------- | -------------- | ---------------- | -------------------------------------------------------- | --------------------------------------------------------------------- |
+| Norwalk, CT | (203)-278-1760 | toj320@gmail.com | [thomasjamesfrancis.com](https://thomasjamesfrancis.com) | [LinkedIn](https://www.linkedin.com/in/thomas-james-libiano-francis/) |
+
+## My Tech Stack
+
+|            |                                                                                |
+| ---------- | ------------------------------------------------------------------------------ |
+| Languages  | Python, C#, Java, TypeScript, JavaScript, SQL, HTML, CSS, SASS, C, Linux, Rust |
+| Design     | Figma, Canva                                                                   |
+| Frontend   | React, Redux, ASP.NET, jQuery, TailwindCSS, Bootstrap, NPM, HTMX               |
+| Backend    | Django, Spring, .NET, NodeJS, Express, GraphQL, Axum                           |
+| Database   | SQL Server, PostgreSQL, MongoDB, SQLite, Redis, DynamoDB, AWS RDS              |
+| Deployment | AWS, Azure, Docker, Nginx, Apache                                              |
+| Testing    | Selenium, React Testing Library, Jest                                          |
 
 ## Experience and Education
 
@@ -14,10 +32,6 @@
 | 4 years   | general programming experience                                                                                       |
 | 18 months | Holberton (coding bootcamp): Certification in Full Stack Web Development (Sept. 2022)                                |
 | 4 years   | University of Connecticut, B.S. in Chemistry (May, 2018)                                                             |
-
-- Attended UCONN on Full Honors Scholarship
-- Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from UConn Chem. Department)
-- GPA: 3.4, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
 
 ## Work Experience
 
@@ -49,14 +63,16 @@
 - Unique Contributions: Wrote and distributed python scripts to automate work
 - Automated bug reports and developed new Bug test processes for their new Web-based app
 
-## My Tech Stack
+## Academic Achievements
 
-|            |                                                                                        |
-| ---------- | -------------------------------------------------------------------------------------- |
-| Design     | Figma                                                                                  |
-| Frontend   | React, Redux, Gatsby, Apollo, jQuery, TailwindCSS, Bootstrap, Vite, Yarn, NPM, Webpack |
-| Backend    | Django + Django REST APIs, Spring Boot, NodeJS, Express, GraphQL                       |
-| Database   | SQL Server, PostgreSQL, MongoDB, SQLite, Redis                                         |
-| Deployment | AWS, Azure, Docker, Nginx, Apache                                                      |
-| Testing    | Selenium, React Testing Library, Jest, Cargo Test Python Unit Tests                    |
-| Languages  | Python, TypeScript, JavaScript, Rust, PostgreSQL, T-SQL, PL/SQL, C, C#, Bash (Linux)   |
+- Attended UCONN on Full Honors Scholarship
+- Roland Award for an Outstanding Senior Thesis (1 of 2 recipients from UConn Chem. Department)
+- GPA: 3.4, UConn Honors Program, UConn STEM Scholar, New Haven Promise Scholar
+
+## References
+
+<!-- - Owais Master | Co-worker at Synergy Corporate Technologies
+  - +1 (203) 550-6861 | owaismaster786@gmail.com -->
+
+- Ricardo Aliwalas | IT Manager at Yale University
+  - +1 (203) 859-0515 | ricardo.aliwalas@yale.edu
