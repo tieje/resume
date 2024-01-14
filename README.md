@@ -6,9 +6,10 @@
 
 # Thomas James L. Francis
 
-|             |                |                  |                                                          |                                                                       |
-| ----------- | -------------- | ---------------- | -------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------- |
-| Norwalk, CT | (203)-278-1760 | toj320@gmail.com | [thomasjamesfrancis.com](https://thomasjamesfrancis.com) | [LinkedIn](https://www.linkedin.com/in/thomas-james-libiano-francis/) | [Github](https://github.com/tieje) |
+|                                                          |                                                                                                           |                                              |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Norwalk, CT                                              | (203)-278-1760                                                                                            | toj320@gmail.com                             |
+| [thomasjamesfrancis.com](https://thomasjamesfrancis.com) | [linkedin.com/in/thomas-james-libiano-francis](https://www.linkedin.com/in/thomas-james-libiano-francis/) | [github.com/tieje](https://github.com/tieje) |
 
 ## My Tech Stack
 
