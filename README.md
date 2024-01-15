@@ -72,8 +72,8 @@
 
 ## References
 
-<!-- - Owais Master | Co-worker at Synergy Corporate Technologies
-  - +1 (203) 550-6861 | owaismaster786@gmail.com -->
+- Owais Master | Co-worker at Synergy Corporate Technologies
+  - +1 (203) 550-6861 | owaismaster786@gmail.com
 
 - Ricardo Aliwalas | IT Manager at Yale University
   - +1 (203) 859-0515 | ricardo.aliwalas@yale.edu
