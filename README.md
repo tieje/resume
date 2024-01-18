@@ -11,6 +11,13 @@
 | Norwalk, CT                                              | (203)-278-1760                                                                                            | toj320@gmail.com                             |
 | [thomasjamesfrancis.com](https://thomasjamesfrancis.com) | [linkedin.com/in/thomas-james-libiano-francis](https://www.linkedin.com/in/thomas-james-libiano-francis/) | [github.com/tieje](https://github.com/tieje) |
 
+## Professional Stories
+
+- <i>**Pushing Projects to Completion**</i>: In the time that it took for the client to approve of a site mockup (site preview), our proprietary site builder service decided to no longer offer the social media widget that our company promised to the client on the mockup. As a full stack dev, I took the initiative to search for a suitable replacement using a previously unknown 3rd-party vendor. Not only was I able to recreate the social media widget, I communicated the setback to the client and was able to convince the client to take on the 3rd-party vendor's annual fee, while bringing the project to completion.
+  - **Skills**: client communication, resourcefulness, initiative, commitment
+- <i>**Hitting the Ground Running**</i>: The company was redoing the entire frontend of their proprietary ticketing system. On my second day as a full stack dev, I was tasked with building the frontend tech base for this system. To the surprise of my manager, the base of the frontend was up and running on that very same day because of my ability to pick up new technologies quickly.
+  - **Skills**: adaptable, knowledgeable, self-starter
+
 ## My Tech Stack
 
 |            |                                                                                |
@@ -73,6 +80,7 @@
 ## References
 
 - Owais Master | Co-worker at Synergy Corporate Technologies
+
   - +1 (203) 550-6861 | owaismaster786@gmail.com
 
 - Ricardo Aliwalas | IT Manager at Yale University
