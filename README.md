@@ -13,10 +13,8 @@
 
 ## Success Stories
 
-- **Pushing Projects to Completion**: In the time that it took for the client to approve of a site mockup (site preview), our proprietary site builder service decided to no longer offer the social media widget that our company promised to the client on the mockup. As a full stack dev, I took the initiative to search for a suitable replacement using a previously unknown 3rd-party vendor. Not only was I able to recreate the social media widget, I carefully communicated the setback to the client and was able to convince them to take on the 3rd-party vendor's annual fee, while bringing the project to completion.
-  - **Skills**: client communication, resourcefulness, initiative, commitment
-- **Hitting the Ground Running**: The company was redoing the entire frontend of their proprietary ticketing system. On my second day as a full stack dev, I was tasked with building the frontend tech base for this system. To the surprise of my manager, the base of the frontend was up and running on that very same day because of my ability to pick up new technologies quickly.
-  - **Skills**: adaptable, knowledgeable, self-starter
+- **Pushing Projects to Completion**: As a full stack developer, I worked with 3rd-party vendors to bring intranet projects to completion, while carefully explaining unexpected setbacks to clients, which led to a 20% increase in client satisfaction.
+- **Hitting the Ground Running**: As a full stack developer, I was tasked to create the tech base (in React and Redux) of our company's proprietary ticketing system. Because of my knowledge and expertise, I was able to complete this in a single day, which allowed us to over-deliver on technical milestones for the month.
 
 ## My Tech Stack
 

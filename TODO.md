@@ -61,3 +61,22 @@ https://news.ycombinator.com/item?id=38842977
 - https://app.talentprise.com/talent/profile/dashboard
 - https://grabjobs.co/profile/personal
 - [google](https://www.google.com/search?q=web+developer+jobs&sca_esv=587375602&sxsrf=AM9HkKnN8dpvZJSbscvsZT_o_9dETyeFEw:1701571622909&source=hp&ei=JuxrZaOkNfmqptQPwNiu2Ak&iflsig=AO6bgOgAAAAAZWv6NgBjMt7MI4aAwd9xbfBd1_i2modz&oq=web&gs_lp=Egdnd3Mtd2l6IgN3ZWIqAggAMgoQIxiABBiKBRgnMhEQLhiABBixAxiDARjHARjRAzIIEAAYgAQYsQMyERAuGIAEGLEDGIMBGMcBGK8BMgsQABiABBixAxiDATIOEC4YgAQYsQMYxwEY0QMyCBAAGIAEGLEDMg4QLhiABBixAxjHARjRAzIIEAAYgAQYsQMyBRAAGIAESJgaUNkMWKYPcAF4AJABAJgBSaABzgGqAQEzuAEDyAEA-AEBqAIKwgIHECMY6gIYJ8ICEBAuGAMYjwEY5QIY6gIYjAPCAhAQABgDGI8BGOUCGOoCGIwDwgIOEAAYgAQYigUYsQMYgwHCAhAQABiABBiKBRixAxiDARgK&sclient=gws-wiz&ibp=htl;jobs&sa=X&ved=2ahUKEwiRpcqjoPKCAxXkrokEHaSyBeEQudcGKAF6BAggECs#htivrt=jobs&fpstate=tldetail&htichips=date_posted:today,requirements:years3under,employment_type:FULLTIME,new_to_you:show_unseen_jobs_only&htischips=date_posted;today,requirements;years3under,employment_type;FULLTIME,new_to_you;show_unseen_jobs_only&htidocid=-Y8KzqlV-n27Yr9CAAAAAA%3D%3D)
+
+## Interview Questions
+
+- I saw your YC Combinator application video. In it, you mentioned that your annual recurring revenue is $110,000 in 2023. Matt mentioned in our previous conversation that you ended with half a million last year. Did this growth meet your expectations?
+- In terms of technology, what is the next technical milestone.
+- Who is your biggest competitor and what do you do better than them?
+- 
+
+- https://www.reddit.com/r/techsales/comments/16e2zba/sdr_final_interview_with_ceo_at_startup/
+
+- What is your churn rate?
+- What has been the ARR trend YoY?
+- What are some of the near-future milestones you are looking at?
+- How long are your deal cycles?
+- What would be that one area where you believe your competitor is doing better and how are you countering it?
+
+- https://www.quora.com/What-are-some-awesome-questions-to-ask-a-CEO-of-a-startup-during-an-interview
+- Are you profitable?
+- If it’s B2B, how many current, active clients do you have? Who is your biggest client, and what percentage of your revenue do they account for?
