@@ -13,11 +13,11 @@
 
 ## Financial Advisor Mission Statement
 
-I seek employment as an FA due to my interest in finance and equities, and because of its high income potential. With my background in physical and digital technologies, I can easily relate to a wide range of affinity prospects, particularly tech millionaires with recent cash out due to firm acquisition.
+I seek employment as an FA due to a lifelong interest in finance and equities. With my background in physical and digital technologies, I can easily relate to a wide range of affinity prospects, particularly tech millionaires with recent cash out due to firm acquisition.
 
 ## Experience and Education
 
-- currently self-studying for the SIE Exam
+- currently self-studying for the SIE Exam with the long-term goal of becoming a CFP
 - 4 years of Full Stack Web Development experience
 - University of Connecticut, B.S. in Chemistry (May, 2018), GPA: 3.4
   - Attended on full scholarship
@@ -37,12 +37,19 @@ I seek employment as an FA due to my interest in finance and equities, and becau
 
 ### MHK
 
-|           |                                                                                        |
-| --------- | -------------------------------------------------------------------------------------- |
-| Role      | Application Support Analyst                                                            |
-| Time      | Sept 15th, 2019 to Oct 16th, 2020                                                      |
-| Space     | Madison, CT                                                                            |
-| Highlight | Automated bug reports and developed new Bug test processes for their new Web-based app |
+|           |                                                                                    |
+| --------- | ---------------------------------------------------------------------------------- |
+| Role      | Application Support Analyst                                                        |
+| Time      | Sept 15th, 2019 to Oct 16th, 2020                                                  |
+| Space     | Madison, CT                                                                        |
+| Highlight | Automated bug reports and developed new test processes for their new web-based app |
+
+## Community Engagement
+
+- active participant of the UCONN Alumni network
+- active member of [newhaven.io](https://newhaven.io/) (Tech community in New Haven, CT)
+- active member of the [warmshowers.org](https://www.warmshowers.org/) cycling community (free overnight stays for long-distance cyclists. Members are typically doctors)
+- active member of the Bayanihan Club (Filipino community)
 
 ## References
 
