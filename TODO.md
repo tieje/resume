@@ -80,3 +80,14 @@ https://news.ycombinator.com/item?id=38842977
 - https://www.quora.com/What-are-some-awesome-questions-to-ask-a-CEO-of-a-startup-during-an-interview
 - Are you profitable?
 - If it’s B2B, how many current, active clients do you have? Who is your biggest client, and what percentage of your revenue do they account for?
+
+## Job Descriptions
+
+Yale
+https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25053&siteid=5248&PageType=JobDetails&jobid=1583150&codes=IINDEED#jobDetails=1584168_5248
+https://www.linkedin.com/in/anju-meenattoor-0742b766/
+https://www.linkedin.com/in/justin-fansler/
+https://www.linkedin.com/in/varduini/
+
+Median base salary of full stack developer
+https://www.indeed.com/career/full-stack-developer/salaries
